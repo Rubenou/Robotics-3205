@@ -1,3 +1,3 @@
-# OD4D
-Programs for the OD robotics team
+# Robotics 3205
+Programs for the robotics class. 
 
